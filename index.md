@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+### Create Files & Folders
+A C# Console Program to make multiple files or folders with optional custom directory output.
 
-You can use the [editor on GitHub](https://github.com/LearAdini/Create-Files-and-Folders/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## To open the mkdir.exe program go to \mkdir\mkdir\bin\Debug and then open mkdir.exe
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+you can view the code and edit it to your liking.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![mkdirp](https://user-images.githubusercontent.com/80118008/125915163-e9da2d05-dded-4dff-a306-d31c8e6944fe.PNG)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LearAdini/Create-Files-and-Folders/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![step 2](https://user-images.githubusercontent.com/80118008/125915185-2aee028c-cd51-4425-a2b3-7b24bac47753.PNG)
